@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/omaralghaish" target="blank"><img src="https://img.shields.io/twitter/follow/omaralghaish?logo=twitter&style=for-the-badge" alt="omaralghaish" /></a> </p>
 
-- 💬 Ask me about **Html, Css, JavaScript, ReactJs, ReactNative, ElectronJs**
+- 💬 Ask me about **Html, Css, JavaScript, ReactJs**
 
 - 📫 How to reach me **omaralghish@gmail.com**
 
