@@ -28,7 +28,7 @@
 
 ###
 
-<div style="padding-top:56.267%;position:relative;"><iframe src="https://gifer.com/embed/PDE" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<img align="right" height="150" src="https://media.tenor.com/20LXSV7TwRIAAAAd/5afayaradio-radio5afaya.gif"  />
 
 ###
 
@@ -57,11 +57,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omar-alghaish/omar-alghaish/4d2d39e19a134debb3a0040114d3b9adef47df48/github-user-contribution%20(2).svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/omar-alghaish/omar-alghaish/4d2d39e19a134debb3a0040114d3b9adef47df48/github-user-contribution.svg" />
-</picture>
 
 ###
 
