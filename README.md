@@ -59,8 +59,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omar-alghaish/omar-alghaish/4d2d39e19a134debb3a0040114d3b9adef47df48/github-user-contribution%20(2).svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/omar-alghaish/omar-alghaish/4d2d39e19a134debb3a0040114d3b9adef47df48/github-user-contribution.svg" />
 </picture>
 
 ###
