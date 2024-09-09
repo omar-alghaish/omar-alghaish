@@ -53,12 +53,25 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/omar-alghaish/count.svg?"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://camo.githubusercontent.com/0f2e59cd97fc3b647df56d346bdbc9e4c07a655375163871e8ec70695f65f742/68747470733a2f2f6d656469612e74656e6f722e636f6d2f32304c585356375477524941414141642f356166617961726164696f2d726164696f3561666179612e676966"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-alghaish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-alghaish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/omar-alghaish/omar-alghaish/output/snake.svg" alt="Snake animation" />
 
 ###
